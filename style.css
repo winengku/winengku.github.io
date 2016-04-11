@@ -129,7 +129,7 @@ img{
     width: 45%;
     margin: 0;
     padding: 0;
-    display: block-inline;
+    display: block;
 }
 .kolom_2 input, kolom_2 textarea{
     display: block;
