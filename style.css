@@ -200,4 +200,5 @@ input[type="submit"]:hover{
 }
 .garis-tengah{
      width:10%;
+     display: block;
 }
