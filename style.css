@@ -128,7 +128,7 @@ img{
     width: 45%;
     margin: 0;
     padding: 0;
-    display: inline-block;
+    display: block-inline;
 }
 .kolom_2 input, kolom_2 textarea{
     display: block;
