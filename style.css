@@ -12,7 +12,7 @@
 .clearfix { display: block; }
 /* close commented backslash hack */
 body{
-    background: url(asset/background.jpg) ;
+    background: url(background.jpg) ;
     font-family: 'Montserrat', sans-serif;
     margin:0;
     padding: 0;
